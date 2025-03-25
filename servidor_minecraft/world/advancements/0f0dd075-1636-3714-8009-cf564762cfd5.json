@@ -85,6 +85,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:wooded_badlands": "2025-03-25 22:24:56 +0000",
       "minecraft:beach": "2025-03-23 17:44:05 +0000",
       "minecraft:lukewarm_ocean": "2025-03-23 15:51:03 +0000",
       "minecraft:river": "2025-03-23 17:43:49 +0000",
@@ -281,7 +282,8 @@
       "potato": "2025-03-25 22:20:41 +0000",
       "pumpkin_pie": "2025-03-23 21:39:09 +0000",
       "bread": "2025-03-23 00:04:10 +0000",
-      "rotten_flesh": "2025-03-23 00:44:14 +0000"
+      "rotten_flesh": "2025-03-23 00:44:14 +0000",
+      "carrot": "2025-03-25 22:32:47 +0000"
     },
     "done": false
   },
@@ -3008,6 +3010,12 @@
   "dungeons_arise:find_fishing_hut": {
     "criteria": {
       "location0": "2025-03-24 20:13:12 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_abandoned_crypt": {
+    "criteria": {
+      "abandoned_crypt": "2025-03-25 22:24:56 +0000"
     },
     "done": true
   },
