@@ -321,3 +321,14 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [25Mar2025 22:51:56.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Survival Mode]
 [25Mar2025 22:58:53.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha was shot by Skeleton
 [25Mar2025 23:18:21.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss has made the advancement [Spooky Scary Skeleton]
+[25Mar2025 23:39:45.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha was slain by Zombie
+[25Mar2025 23:44:01.284] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: caradesalchicha lost connection: Disconnected
+[25Mar2025 23:44:01.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha left the game
+[25Mar2025 23:46:01.734] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@21b8332e[id=<null>,name=caradesalchicha,properties={},legacy=false] (/127.54.255.13:60595) lost connection: Disconnected
+[25Mar2025 23:46:12.419] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: caradesalchicha[/127.54.255.13:42821] logged in with entity id 16945 at (-1292.7114658368441, 127.0, 74.69999998807907)
+[25Mar2025 23:46:12.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha joined the game
+[25Mar2025 23:46:12.513] [Server thread/INFO] [Jade/]: Syncing config to caradesalchicha (0f0dd075-1636-3714-8009-cf564762cfd5)
+[25Mar2025 23:46:59.332] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1309, y=127, z=91} BlockPos{x=-1309, y=125, z=91}
+[25Mar2025 23:46:59.389] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1309, y=127, z=91} BlockPos{x=-1309, y=125, z=91}
+[25Mar2025 23:46:59.448] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1309, y=127, z=91} BlockPos{x=-1309, y=125, z=91}
+[25Mar2025 23:46:59.841] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1310, y=126, z=92} BlockPos{x=-1309, y=125, z=94}
