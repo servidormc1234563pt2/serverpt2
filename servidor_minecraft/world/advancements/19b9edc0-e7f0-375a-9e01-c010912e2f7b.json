@@ -288,7 +288,8 @@
       "minecraft:wither_skeleton": "2025-03-24 19:56:07 +0000",
       "minecraft:husk": "2025-03-24 18:36:14 +0000",
       "minecraft:enderman": "2025-03-23 01:50:19 +0000",
-      "minecraft:zombie": "2025-03-22 23:07:24 +0000"
+      "minecraft:zombie": "2025-03-22 23:07:24 +0000",
+      "minecraft:drowned": "2025-03-25 22:59:17 +0000"
     },
     "done": false
   },
@@ -2973,6 +2974,18 @@
     "criteria": {
       "has_spawner_blade": "2025-03-24 20:24:26 +0000",
       "has_the_recipe": "2025-03-24 20:24:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-03-25 22:58:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-03-25 22:58:52 +0000"
     },
     "done": true
   },
