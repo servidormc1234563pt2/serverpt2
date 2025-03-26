@@ -13,3 +13,8 @@
 [26Mar2025 00:07:55.988] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of sergiosssssss) moved wrongly! 0.25911689761514367
 [26Mar2025 00:07:56.034] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of sergiosssssss) moved wrongly! 0.6568820809105631
 [26Mar2025 00:07:56.085] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of sergiosssssss) moved wrongly! 1.128835197524893
+[26Mar2025 00:13:30.733] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7855b9a2[id=<null>,name=caradesalchicha,properties={},legacy=false] (/127.54.255.13:54841) lost connection: Disconnected
+[26Mar2025 00:13:40.505] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: caradesalchicha[/127.54.255.13:44257] logged in with entity id 25237 at (-50.948342000951804, 62.5625, 23.314545265210892)
+[26Mar2025 00:13:40.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha joined the game
+[26Mar2025 00:13:40.626] [Server thread/INFO] [Jade/]: Syncing config to caradesalchicha (0f0dd075-1636-3714-8009-cf564762cfd5)
+[26Mar2025 00:18:31.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha has made the advancement [Crafting a New Look]
