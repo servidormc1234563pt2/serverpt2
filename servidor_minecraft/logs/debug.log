@@ -5432,3 +5432,33 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [26Mar2025 22:40:42.005] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [26Mar2025 22:40:43.017] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
 [26Mar2025 22:41:59.593] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/16209, l='ServerLevel[world]', x=16.16, y=67.00, z=242.91] died, message: 'Farmer was slain by sergiosssssss'
+[26Mar2025 22:42:07.824] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2080ms or 41 ticks behind
+[26Mar2025 22:42:11.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha has made the advancement [The Silence of the Forest]
+[26Mar2025 22:42:14.485] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/16208, l='ServerLevel[world]', x=17.27, y=64.94, z=250.27] died, message: 'Unemployed was slain by Wolf'
+[26Mar2025 22:42:24.843] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=-40, y=63, z=37}
+[26Mar2025 22:42:26.978] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2134ms or 42 ticks behind
+[26Mar2025 22:45:46.782] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Mar2025 22:45:46.806] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Mar2025 22:45:49.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Spectator Mode]
+[26Mar2025 22:45:55.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Teleported caradesalchicha to sergiosssssss]
+[26Mar2025 22:46:03.998] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[26Mar2025 22:46:26.668] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-357, y=72, z=-86}
+[26Mar2025 22:46:26.674] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-360, y=76, z=-87}
+[26Mar2025 22:46:26.675] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-353, y=77, z=-86}
+[26Mar2025 22:46:26.676] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-355, y=71, z=-94}
+[26Mar2025 22:46:38.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Survival Mode]
+[26Mar2025 22:48:05.190] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: caradesalchicha lost connection: Disconnected
+[26Mar2025 22:48:05.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha left the game
+[26Mar2025 22:49:17.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Incorrect argument for command
+[26Mar2025 22:49:17.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...iosssssss  run summon creeper ~ ~ ~ {Powered:1b}<--[HERE]
+[26Mar2025 22:50:10.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Incorrect argument for command
+[26Mar2025 22:50:10.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...iosssssss  run summon creeper ~ ~ ~<--[HERE]
+[26Mar2025 22:50:49.446] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[26Mar2025 22:50:51.504] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Mar2025 22:50:51.516] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Mar2025 22:50:53.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[26Mar2025 22:50:53.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[26Mar2025 22:50:53.685] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sergiosssssss lost connection: Server closed
+[26Mar2025 22:50:53.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss left the game
+[26Mar2025 22:50:53.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[26Mar2025 22:50:55.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
