@@ -3789,3 +3789,297 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [26Mar2025 21:38:27.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sergiosssssss> no empiece
 [26Mar2025 21:38:34.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sergiosssssss> fastidioso
 [26Mar2025 21:38:39.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <caradesalchicha> tambien me hizo perder niveles
+[26Mar2025 21:40:34.024] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
+[26Mar2025 21:41:46.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sergiosssssss> cansoooon
+[26Mar2025 21:41:57.499] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[26Mar2025 21:42:27.852] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Mar2025 21:42:27.881] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Mar2025 21:42:27.909] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2114ms or 42 ticks behind
+[26Mar2025 21:44:02.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sergiosssssss> fastidiosooooo
+[26Mar2025 21:44:11.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <caradesalchicha> usted empezo ayer
+[26Mar2025 21:44:13.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <caradesalchicha> conste
+[26Mar2025 21:44:19.764] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2070ms or 41 ticks behind
+[26Mar2025 21:44:21.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <caradesalchicha> me voy
+[26Mar2025 21:44:40.519] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5775ms or 115 ticks behind
+[26Mar2025 21:44:58.264] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2770ms or 55 ticks behind
+[26Mar2025 21:45:21.147] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7903ms or 158 ticks behind
+[26Mar2025 21:45:42.484] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6339ms or 126 ticks behind
+[26Mar2025 21:46:04.785] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7341ms or 146 ticks behind
+[26Mar2025 21:46:25.791] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6047ms or 120 ticks behind
+[26Mar2025 21:46:28.233] [Worker-Main-9/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betterdungeons.mixins.json into net.minecraft.server.level.WorldGenRegion
+[26Mar2025 21:46:28.233] [Worker-Main-9/DEBUG] [mixin/]: Mixing WorldGenRegionAccessor from cataclysm.mixins.json into net.minecraft.server.level.WorldGenRegion
+[26Mar2025 21:46:28.237] [Worker-Main-9/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[26Mar2025 21:46:29.293] [Worker-Main-27/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[26Mar2025 21:46:29.296] [Worker-Main-27/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[26Mar2025 21:46:29.297] [Worker-Main-27/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from cataclysm.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[26Mar2025 21:46:29.304] [Worker-Main-27/DEBUG] [mixin/]: Unexpected: Registered method getJunctionIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[26Mar2025 21:46:29.304] [Worker-Main-27/DEBUG] [mixin/]: Unexpected: Registered method getPieceIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[26Mar2025 21:46:38.941] [Worker-Main-27/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=216, y=47, z=211}
+[26Mar2025 21:46:58.959] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18215ms or 364 ticks behind
+[26Mar2025 21:47:20.299] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6355ms or 127 ticks behind
+[26Mar2025 21:47:40.040] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4746ms or 94 ticks behind
+[26Mar2025 21:47:59.924] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4930ms or 98 ticks behind
+[26Mar2025 21:48:25.057] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10162ms or 203 ticks behind
+[26Mar2025 21:48:44.799] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4754ms or 95 ticks behind
+[26Mar2025 21:48:53.564] [Server thread/DEBUG] [mixin/]: Mixing compat116plus.VillagerBreedTaskMixin from pehkui.mixins.json into net.minecraft.world.entity.ai.behavior.VillagerMakeLove
+[26Mar2025 21:49:00.647] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Mar2025 21:49:00.675] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Mar2025 21:49:11.107] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11312ms or 226 ticks behind
+[26Mar2025 21:49:18.838] [Worker-Main-28/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[26Mar2025 21:49:23.715] [Worker-Main-29/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room_2 with rotation COUNTERCLOCKWISE_90 at (-1069 | 47 | 579)
+[26Mar2025 21:49:23.754] [Worker-Main-29/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room_2 with rotation COUNTERCLOCKWISE_90 at (-1069 | 47 | 579)
+[26Mar2025 21:49:31.835] [Worker-Main-28/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/node_connector with rotation NONE at (-1073 | 65 | 638)
+[26Mar2025 21:49:31.835] [Worker-Main-28/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/node_connector with rotation NONE at (-1073 | 65 | 638)
+[26Mar2025 21:49:31.836] [Worker-Main-28/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector with rotation CLOCKWISE_180 at (-1071 | 65 | 638)
+[26Mar2025 21:49:31.836] [Worker-Main-28/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector with rotation CLOCKWISE_180 at (-1071 | 65 | 638)
+[26Mar2025 21:49:31.836] [Worker-Main-28/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/spawner with rotation CLOCKWISE_180 at (-1061 | 65 | 642)
+[26Mar2025 21:49:31.840] [Worker-Main-28/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/spawner with rotation CLOCKWISE_180 at (-1061 | 65 | 642)
+[26Mar2025 21:49:31.840] [Worker-Main-28/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/default with rotation CLOCKWISE_180 at (-1065 | 65 | 642)
+[26Mar2025 21:49:31.840] [Worker-Main-28/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/default with rotation CLOCKWISE_180 at (-1065 | 65 | 642)
+[26Mar2025 21:49:31.840] [Worker-Main-28/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_3 with rotation CLOCKWISE_180 at (-1066 | 65 | 638)
+[26Mar2025 21:49:31.841] [Worker-Main-28/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_3 with rotation CLOCKWISE_180 at (-1066 | 65 | 638)
+[26Mar2025 21:49:31.841] [Worker-Main-28/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector with rotation NONE at (-1057 | 65 | 638)
+[26Mar2025 21:49:31.841] [Worker-Main-28/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector with rotation NONE at (-1057 | 65 | 638)
+[26Mar2025 21:49:32.123] [Worker-Main-27/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/node_connector with rotation NONE at (-1073 | 65 | 638)
+[26Mar2025 21:49:32.124] [Worker-Main-27/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/node_connector with rotation NONE at (-1073 | 65 | 638)
+[26Mar2025 21:49:32.124] [Worker-Main-27/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector with rotation CLOCKWISE_180 at (-1071 | 65 | 638)
+[26Mar2025 21:49:32.125] [Worker-Main-27/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector with rotation CLOCKWISE_180 at (-1071 | 65 | 638)
+[26Mar2025 21:49:32.125] [Worker-Main-27/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/chest_room with rotation NONE at (-1062 | 65 | 633)
+[26Mar2025 21:49:32.127] [Worker-Main-27/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/chest_room with rotation NONE at (-1062 | 65 | 633)
+[26Mar2025 21:49:32.127] [Worker-Main-27/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/variant with rotation NONE at (-1065 | 65 | 637)
+[26Mar2025 21:49:32.128] [Worker-Main-27/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/variant with rotation NONE at (-1065 | 65 | 637)
+[26Mar2025 21:49:32.128] [Worker-Main-27/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_3 with rotation CLOCKWISE_180 at (-1066 | 65 | 638)
+[26Mar2025 21:49:32.129] [Worker-Main-27/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_3 with rotation CLOCKWISE_180 at (-1066 | 65 | 638)
+[26Mar2025 21:49:32.130] [Worker-Main-27/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector with rotation NONE at (-1057 | 65 | 638)
+[26Mar2025 21:49:32.130] [Worker-Main-27/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector with rotation NONE at (-1057 | 65 | 638)
+[26Mar2025 21:49:32.601] [Worker-Main-27/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/node/ceiling/dome with rotation CLOCKWISE_90 at (-1064 | 52 | 611)
+[26Mar2025 21:49:32.602] [Worker-Main-27/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/node/ceiling/dome with rotation CLOCKWISE_90 at (-1064 | 52 | 611)
+[26Mar2025 21:49:32.602] [Worker-Main-27/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation NONE at (-1058 | 47 | 606)
+[26Mar2025 21:49:32.602] [Worker-Main-27/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation NONE at (-1058 | 47 | 606)
+[26Mar2025 21:49:32.602] [Worker-Main-27/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation CLOCKWISE_180 at (-1070 | 47 | 606)
+[26Mar2025 21:49:32.603] [Worker-Main-27/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation CLOCKWISE_180 at (-1070 | 47 | 606)
+[26Mar2025 21:49:32.603] [Worker-Main-27/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/large_wall with rotation NONE at (-1058 | 47 | 611)
+[26Mar2025 21:49:32.606] [Worker-Main-27/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/large_wall with rotation NONE at (-1058 | 47 | 611)
+[26Mar2025 21:49:32.606] [Worker-Main-27/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/crypt_graves with rotation CLOCKWISE_90 at (-1065 | 47 | 617)
+[26Mar2025 21:49:32.606] [Worker-Main-27/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/crypt_graves with rotation CLOCKWISE_90 at (-1065 | 47 | 617)
+[26Mar2025 21:49:32.608] [Worker-Main-27/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/crypt_graves with rotation CLOCKWISE_180 at (-1069 | 47 | 610)
+[26Mar2025 21:49:32.608] [Worker-Main-27/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/crypt_graves with rotation CLOCKWISE_180 at (-1069 | 47 | 610)
+[26Mar2025 21:49:32.611] [Worker-Main-27/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_dead_end with rotation CLOCKWISE_90 at (-1070 | 47 | 605)
+[26Mar2025 21:49:32.612] [Worker-Main-27/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_dead_end with rotation CLOCKWISE_90 at (-1070 | 47 | 605)
+[26Mar2025 21:49:32.965] [Worker-Main-28/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_90 at (-1064 | 47 | 594)
+[26Mar2025 21:49:32.967] [Worker-Main-28/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_90 at (-1064 | 47 | 594)
+[26Mar2025 21:49:32.967] [Worker-Main-28/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_3 with rotation COUNTERCLOCKWISE_90 at (-1065 | 47 | 595)
+[26Mar2025 21:49:32.969] [Worker-Main-28/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_3 with rotation COUNTERCLOCKWISE_90 at (-1065 | 47 | 595)
+[26Mar2025 21:49:32.969] [Worker-Main-28/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room_2 with rotation COUNTERCLOCKWISE_90 at (-1069 | 47 | 579)
+[26Mar2025 21:49:32.971] [Worker-Main-28/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room_2 with rotation COUNTERCLOCKWISE_90 at (-1069 | 47 | 579)
+[26Mar2025 21:49:32.971] [Worker-Main-28/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation NONE at (-1058 | 47 | 606)
+[26Mar2025 21:49:32.974] [Worker-Main-28/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation NONE at (-1058 | 47 | 606)
+[26Mar2025 21:49:32.974] [Worker-Main-28/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation CLOCKWISE_180 at (-1070 | 47 | 606)
+[26Mar2025 21:49:32.976] [Worker-Main-28/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation CLOCKWISE_180 at (-1070 | 47 | 606)
+[26Mar2025 21:49:32.976] [Worker-Main-28/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector with rotation CLOCKWISE_90 at (-1064 | 47 | 600)
+[26Mar2025 21:49:32.976] [Worker-Main-28/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector with rotation CLOCKWISE_90 at (-1064 | 47 | 600)
+[26Mar2025 21:49:32.976] [Worker-Main-28/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_dead_end with rotation CLOCKWISE_90 at (-1070 | 47 | 605)
+[26Mar2025 21:49:32.976] [Worker-Main-28/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_dead_end with rotation CLOCKWISE_90 at (-1070 | 47 | 605)
+[26Mar2025 21:49:42.391] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16297ms or 325 ticks behind
+[26Mar2025 21:49:44.461] [Worker-Main-9/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/short_node_connector with rotation NONE at (-1054 | 47 | 584)
+[26Mar2025 21:49:44.461] [Worker-Main-9/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation NONE at (-1054 | 47 | 584)
+[26Mar2025 21:49:44.462] [Worker-Main-9/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_3 with rotation CLOCKWISE_180 at (-1053 | 47 | 583)
+[26Mar2025 21:49:44.463] [Worker-Main-9/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_3 with rotation CLOCKWISE_180 at (-1053 | 47 | 583)
+[26Mar2025 21:49:44.463] [Worker-Main-9/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room_2 with rotation COUNTERCLOCKWISE_90 at (-1069 | 47 | 579)
+[26Mar2025 21:49:44.464] [Worker-Main-9/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room_2 with rotation COUNTERCLOCKWISE_90 at (-1069 | 47 | 579)
+[26Mar2025 21:49:44.466] [Worker-Main-9/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation COUNTERCLOCKWISE_90 at (-1042 | 47 | 578)
+[26Mar2025 21:49:44.469] [Worker-Main-9/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation COUNTERCLOCKWISE_90 at (-1042 | 47 | 578)
+[26Mar2025 21:49:44.469] [Worker-Main-9/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_2 with rotation NONE at (-1048 | 47 | 583)
+[26Mar2025 21:49:44.471] [Worker-Main-9/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_2 with rotation NONE at (-1048 | 47 | 583)
+[26Mar2025 21:49:44.471] [Worker-Main-9/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_turn with rotation NONE at (-1043 | 47 | 578)
+[26Mar2025 21:49:44.473] [Worker-Main-9/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_turn with rotation NONE at (-1043 | 47 | 578)
+[26Mar2025 21:49:44.488] [Worker-Main-28/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room_2 with rotation COUNTERCLOCKWISE_90 at (-1069 | 47 | 579)
+[26Mar2025 21:49:44.489] [Worker-Main-28/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room_2 with rotation COUNTERCLOCKWISE_90 at (-1069 | 47 | 579)
+[26Mar2025 21:49:44.489] [Worker-Main-28/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation NONE at (-1058 | 47 | 606)
+[26Mar2025 21:49:44.492] [Worker-Main-28/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation NONE at (-1058 | 47 | 606)
+[26Mar2025 21:49:44.493] [Worker-Main-28/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_dead_end with rotation CLOCKWISE_90 at (-1070 | 47 | 605)
+[26Mar2025 21:49:44.493] [Worker-Main-28/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_dead_end with rotation CLOCKWISE_90 at (-1070 | 47 | 605)
+[26Mar2025 21:49:44.493] [Worker-Main-28/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_turn with rotation NONE at (-1043 | 47 | 578)
+[26Mar2025 21:49:44.493] [Worker-Main-28/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_turn with rotation NONE at (-1043 | 47 | 578)
+[26Mar2025 21:49:44.644] [Worker-Main-28/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room with rotation NONE at (-1048 | 65 | 618)
+[26Mar2025 21:49:44.646] [Worker-Main-28/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room with rotation NONE at (-1048 | 65 | 618)
+[26Mar2025 21:49:44.648] [Worker-Main-28/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation NONE at (-1058 | 47 | 606)
+[26Mar2025 21:49:44.649] [Worker-Main-28/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation NONE at (-1058 | 47 | 606)
+[26Mar2025 21:49:44.651] [Worker-Main-28/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_dead_end with rotation CLOCKWISE_90 at (-1070 | 47 | 605)
+[26Mar2025 21:49:44.651] [Worker-Main-28/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_dead_end with rotation CLOCKWISE_90 at (-1070 | 47 | 605)
+[26Mar2025 21:49:44.651] [Worker-Main-28/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_turn with rotation CLOCKWISE_180 at (-1043 | 47 | 623)
+[26Mar2025 21:49:44.651] [Worker-Main-28/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_turn with rotation CLOCKWISE_180 at (-1043 | 47 | 623)
+[26Mar2025 21:49:44.703] [Worker-Main-28/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector with rotation COUNTERCLOCKWISE_90 at (-1046 | 65 | 649)
+[26Mar2025 21:49:44.704] [Worker-Main-28/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector with rotation COUNTERCLOCKWISE_90 at (-1046 | 65 | 649)
+[26Mar2025 21:49:44.704] [Worker-Main-28/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector with rotation NONE at (-1057 | 65 | 638)
+[26Mar2025 21:49:44.705] [Worker-Main-28/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector with rotation NONE at (-1057 | 65 | 638)
+[26Mar2025 21:49:44.705] [Worker-Main-28/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/fire_hall with rotation CLOCKWISE_180 at (-1052 | 65 | 632)
+[26Mar2025 21:49:44.710] [Worker-Main-28/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/fire_hall with rotation CLOCKWISE_180 at (-1052 | 65 | 632)
+[26Mar2025 21:49:44.711] [Worker-Main-28/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (-1048 | 65 | 654)
+[26Mar2025 21:49:44.712] [Worker-Main-28/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (-1048 | 65 | 654)
+[26Mar2025 21:49:44.769] [Worker-Main-28/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room with rotation NONE at (-1048 | 65 | 618)
+[26Mar2025 21:49:44.769] [Worker-Main-28/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room with rotation NONE at (-1048 | 65 | 618)
+[26Mar2025 21:49:44.770] [Worker-Main-28/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector with rotation CLOCKWISE_90 at (-1046 | 65 | 627)
+[26Mar2025 21:49:44.770] [Worker-Main-28/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector with rotation CLOCKWISE_90 at (-1046 | 65 | 627)
+[26Mar2025 21:49:44.772] [Worker-Main-28/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector with rotation NONE at (-1057 | 65 | 638)
+[26Mar2025 21:49:44.772] [Worker-Main-28/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector with rotation NONE at (-1057 | 65 | 638)
+[26Mar2025 21:49:44.772] [Worker-Main-28/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/fire_hall with rotation CLOCKWISE_180 at (-1052 | 65 | 632)
+[26Mar2025 21:49:44.773] [Worker-Main-28/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/fire_hall with rotation CLOCKWISE_180 at (-1052 | 65 | 632)
+[26Mar2025 21:49:44.776] [Worker-Main-28/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation CLOCKWISE_180 at (-1043 | 47 | 624)
+[26Mar2025 21:49:44.776] [Worker-Main-28/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation CLOCKWISE_180 at (-1043 | 47 | 624)
+[26Mar2025 21:49:44.776] [Worker-Main-28/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_turn with rotation CLOCKWISE_180 at (-1043 | 47 | 623)
+[26Mar2025 21:49:44.776] [Worker-Main-28/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_turn with rotation CLOCKWISE_180 at (-1043 | 47 | 623)
+[26Mar2025 21:49:45.006] [Worker-Main-9/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (-1048 | 65 | 654)
+[26Mar2025 21:49:45.007] [Worker-Main-9/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (-1048 | 65 | 654)
+[26Mar2025 21:49:52.856] [Worker-Main-9/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/node/ceiling/flat with rotation NONE at (-1037 | 52 | 584)
+[26Mar2025 21:49:52.856] [Worker-Main-9/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/node/ceiling/flat with rotation NONE at (-1037 | 52 | 584)
+[26Mar2025 21:49:52.857] [Worker-Main-9/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation COUNTERCLOCKWISE_90 at (-1042 | 47 | 578)
+[26Mar2025 21:49:52.857] [Worker-Main-9/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation COUNTERCLOCKWISE_90 at (-1042 | 47 | 578)
+[26Mar2025 21:49:52.858] [Worker-Main-9/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation NONE at (-1031 | 47 | 589)
+[26Mar2025 21:49:52.858] [Worker-Main-9/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation NONE at (-1031 | 47 | 589)
+[26Mar2025 21:49:52.861] [Worker-Main-9/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/crypt_graves with rotation COUNTERCLOCKWISE_90 at (-1038 | 47 | 579)
+[26Mar2025 21:49:52.861] [Worker-Main-9/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/crypt_graves with rotation COUNTERCLOCKWISE_90 at (-1038 | 47 | 579)
+[26Mar2025 21:49:52.862] [Worker-Main-9/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/crypt_graves with rotation NONE at (-1031 | 47 | 583)
+[26Mar2025 21:49:52.862] [Worker-Main-9/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/crypt_graves with rotation NONE at (-1031 | 47 | 583)
+[26Mar2025 21:49:52.863] [Worker-Main-9/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_turn with rotation NONE at (-1043 | 47 | 578)
+[26Mar2025 21:49:52.866] [Worker-Main-9/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_turn with rotation NONE at (-1043 | 47 | 578)
+[26Mar2025 21:49:52.910] [Worker-Main-28/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation NONE at (-1031 | 47 | 589)
+[26Mar2025 21:49:52.912] [Worker-Main-28/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation NONE at (-1031 | 47 | 589)
+[26Mar2025 21:49:52.914] [Worker-Main-28/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector with rotation COUNTERCLOCKWISE_90 at (-1037 | 47 | 595)
+[26Mar2025 21:49:52.914] [Worker-Main-28/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector with rotation COUNTERCLOCKWISE_90 at (-1037 | 47 | 595)
+[26Mar2025 21:49:52.914] [Worker-Main-28/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_turn with rotation NONE at (-1043 | 47 | 578)
+[26Mar2025 21:49:52.914] [Worker-Main-28/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_turn with rotation NONE at (-1043 | 47 | 578)
+[26Mar2025 21:49:52.917] [Worker-Main-28/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/stone_corridor with rotation COUNTERCLOCKWISE_90 at (-1038 | 47 | 600)
+[26Mar2025 21:49:52.917] [Worker-Main-28/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/stone_corridor with rotation COUNTERCLOCKWISE_90 at (-1038 | 47 | 600)
+[26Mar2025 21:49:53.186] [Worker-Main-28/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room with rotation NONE at (-1048 | 65 | 618)
+[26Mar2025 21:49:53.188] [Worker-Main-28/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room with rotation NONE at (-1048 | 65 | 618)
+[26Mar2025 21:49:53.188] [Worker-Main-28/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room with rotation NONE at (-1030 | 65 | 618)
+[26Mar2025 21:49:53.191] [Worker-Main-28/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room with rotation NONE at (-1030 | 65 | 618)
+[26Mar2025 21:49:53.192] [Worker-Main-28/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/stone_corridor with rotation COUNTERCLOCKWISE_90 at (-1038 | 47 | 600)
+[26Mar2025 21:49:53.192] [Worker-Main-28/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/stone_corridor with rotation COUNTERCLOCKWISE_90 at (-1038 | 47 | 600)
+[26Mar2025 21:49:53.194] [Worker-Main-28/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (-1039 | 47 | 609)
+[26Mar2025 21:49:53.195] [Worker-Main-28/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (-1039 | 47 | 609)
+[26Mar2025 21:49:53.199] [Worker-Main-28/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_90 at (-1038 | 47 | 618)
+[26Mar2025 21:49:53.199] [Worker-Main-28/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_90 at (-1038 | 47 | 618)
+[26Mar2025 21:49:53.199] [Worker-Main-28/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_turn with rotation CLOCKWISE_180 at (-1043 | 47 | 623)
+[26Mar2025 21:49:53.200] [Worker-Main-28/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_turn with rotation CLOCKWISE_180 at (-1043 | 47 | 623)
+[26Mar2025 21:49:53.200] [Worker-Main-28/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room with rotation CLOCKWISE_180 at (-1033 | 38 | 615)
+[26Mar2025 21:49:53.201] [Worker-Main-28/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room with rotation CLOCKWISE_180 at (-1033 | 38 | 615)
+[26Mar2025 21:49:53.203] [Worker-Main-28/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/room at (-1033 | 38 | 615)
+[26Mar2025 21:49:53.205] [Worker-Main-28/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/room at (-1033 | 38 | 615)
+[26Mar2025 21:49:53.234] [Worker-Main-9/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room with rotation NONE at (-1048 | 65 | 618)
+[26Mar2025 21:49:53.235] [Worker-Main-9/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room with rotation NONE at (-1048 | 65 | 618)
+[26Mar2025 21:49:53.235] [Worker-Main-9/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_180 at (-1035 | 65 | 637)
+[26Mar2025 21:49:53.236] [Worker-Main-9/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_180 at (-1035 | 65 | 637)
+[26Mar2025 21:49:53.236] [Worker-Main-9/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/fire_hall with rotation CLOCKWISE_180 at (-1052 | 65 | 632)
+[26Mar2025 21:49:53.238] [Worker-Main-9/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/fire_hall with rotation CLOCKWISE_180 at (-1052 | 65 | 632)
+[26Mar2025 21:49:53.238] [Worker-Main-9/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room with rotation NONE at (-1030 | 65 | 618)
+[26Mar2025 21:49:53.238] [Worker-Main-9/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room with rotation NONE at (-1030 | 65 | 618)
+[26Mar2025 21:49:53.239] [Worker-Main-9/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/variant_2 with rotation NONE at (-1027 | 65 | 637)
+[26Mar2025 21:49:53.239] [Worker-Main-9/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/variant_2 with rotation NONE at (-1027 | 65 | 637)
+[26Mar2025 21:49:53.239] [Worker-Main-9/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/secret_room_entrance with rotation CLOCKWISE_180 at (-1030 | 65 | 637)
+[26Mar2025 21:49:53.240] [Worker-Main-9/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/secret_room_entrance with rotation CLOCKWISE_180 at (-1030 | 65 | 637)
+[26Mar2025 21:49:53.240] [Worker-Main-9/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/node/ceiling/dome with rotation CLOCKWISE_180 at (-1037 | 52 | 629)
+[26Mar2025 21:49:53.241] [Worker-Main-9/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/node/ceiling/dome with rotation CLOCKWISE_180 at (-1037 | 52 | 629)
+[26Mar2025 21:49:53.241] [Worker-Main-9/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation CLOCKWISE_90 at (-1032 | 47 | 635)
+[26Mar2025 21:49:53.243] [Worker-Main-9/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation CLOCKWISE_90 at (-1032 | 47 | 635)
+[26Mar2025 21:49:53.243] [Worker-Main-9/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation CLOCKWISE_180 at (-1043 | 47 | 624)
+[26Mar2025 21:49:53.245] [Worker-Main-9/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation CLOCKWISE_180 at (-1043 | 47 | 624)
+[26Mar2025 21:49:53.245] [Worker-Main-9/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/large_wall with rotation CLOCKWISE_90 at (-1037 | 47 | 635)
+[26Mar2025 21:49:53.245] [Worker-Main-9/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/large_wall with rotation CLOCKWISE_90 at (-1037 | 47 | 635)
+[26Mar2025 21:49:53.245] [Worker-Main-9/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/large_wall with rotation CLOCKWISE_180 at (-1039 | 47 | 629)
+[26Mar2025 21:49:53.245] [Worker-Main-9/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/large_wall with rotation CLOCKWISE_180 at (-1039 | 47 | 629)
+[26Mar2025 21:49:53.245] [Worker-Main-9/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_3 with rotation CLOCKWISE_180 at (-1026 | 47 | 628)
+[26Mar2025 21:49:53.246] [Worker-Main-9/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_3 with rotation CLOCKWISE_180 at (-1026 | 47 | 628)
+[26Mar2025 21:49:53.246] [Worker-Main-9/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_turn with rotation CLOCKWISE_180 at (-1043 | 47 | 623)
+[26Mar2025 21:49:53.247] [Worker-Main-9/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_turn with rotation CLOCKWISE_180 at (-1043 | 47 | 623)
+[26Mar2025 21:49:53.247] [Worker-Main-9/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room with rotation CLOCKWISE_180 at (-1033 | 38 | 615)
+[26Mar2025 21:49:53.248] [Worker-Main-9/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room with rotation CLOCKWISE_180 at (-1033 | 38 | 615)
+[26Mar2025 21:49:53.248] [Worker-Main-9/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/room at (-1033 | 38 | 615)
+[26Mar2025 21:49:53.249] [Worker-Main-9/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/room at (-1033 | 38 | 615)
+[26Mar2025 21:49:53.609] [Worker-Main-28/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_180 at (-1035 | 65 | 637)
+[26Mar2025 21:49:53.612] [Worker-Main-28/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_180 at (-1035 | 65 | 637)
+[26Mar2025 21:49:53.612] [Worker-Main-28/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/fire_hall with rotation CLOCKWISE_180 at (-1052 | 65 | 632)
+[26Mar2025 21:49:53.612] [Worker-Main-28/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/fire_hall with rotation CLOCKWISE_180 at (-1052 | 65 | 632)
+[26Mar2025 21:49:53.612] [Worker-Main-28/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (-1048 | 65 | 654)
+[26Mar2025 21:49:53.613] [Worker-Main-28/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (-1048 | 65 | 654)
+[26Mar2025 21:49:53.613] [Worker-Main-28/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/secret_room_entrance_2 with rotation CLOCKWISE_180 at (-1027 | 65 | 642)
+[26Mar2025 21:49:53.613] [Worker-Main-28/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/secret_room_entrance_2 with rotation CLOCKWISE_180 at (-1027 | 65 | 642)
+[26Mar2025 21:49:53.613] [Worker-Main-28/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/secret_room_entrance with rotation CLOCKWISE_180 at (-1030 | 65 | 637)
+[26Mar2025 21:49:53.613] [Worker-Main-28/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/secret_room_entrance with rotation CLOCKWISE_180 at (-1030 | 65 | 637)
+[26Mar2025 21:49:53.613] [Worker-Main-28/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/secret_room with rotation CLOCKWISE_90 at (-1030 | 65 | 645)
+[26Mar2025 21:49:53.616] [Worker-Main-28/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/secret_room with rotation CLOCKWISE_90 at (-1030 | 65 | 645)
+[26Mar2025 21:49:53.618] [Worker-Main-28/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/node/ceiling/crumbled with rotation CLOCKWISE_180 at (-1028 | 44 | 647)
+[26Mar2025 21:49:53.618] [Worker-Main-28/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/node/ceiling/crumbled with rotation CLOCKWISE_180 at (-1028 | 44 | 647)
+[26Mar2025 21:49:53.621] [Worker-Main-28/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/node/ceiling/crumbled at (-1028 | 44 | 647)
+[26Mar2025 21:49:53.621] [Worker-Main-28/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/node/ceiling/crumbled at (-1028 | 44 | 647)
+[26Mar2025 21:49:53.621] [Worker-Main-28/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sewers with rotation CLOCKWISE_180 at (-1034 | 37 | 641)
+[26Mar2025 21:49:53.623] [Worker-Main-28/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sewers with rotation CLOCKWISE_180 at (-1034 | 37 | 641)
+[26Mar2025 21:49:53.625] [Worker-Main-28/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/sewers at (-1034 | 37 | 641)
+[26Mar2025 21:49:53.629] [Worker-Main-28/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/sewers at (-1034 | 37 | 641)
+[26Mar2025 21:49:53.712] [Worker-Main-9/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (-1048 | 65 | 654)
+[26Mar2025 21:49:53.713] [Worker-Main-9/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (-1048 | 65 | 654)
+[26Mar2025 21:49:53.713] [Worker-Main-9/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/secret_room with rotation CLOCKWISE_90 at (-1030 | 65 | 645)
+[26Mar2025 21:49:53.715] [Worker-Main-9/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/secret_room with rotation CLOCKWISE_90 at (-1030 | 65 | 645)
+[26Mar2025 21:49:53.715] [Worker-Main-9/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sewers with rotation CLOCKWISE_180 at (-1034 | 37 | 641)
+[26Mar2025 21:49:53.715] [Worker-Main-9/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sewers with rotation CLOCKWISE_180 at (-1034 | 37 | 641)
+[26Mar2025 21:49:53.715] [Worker-Main-9/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/sewers at (-1034 | 37 | 641)
+[26Mar2025 21:49:53.718] [Worker-Main-9/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/sewers at (-1034 | 37 | 641)
+[26Mar2025 21:49:59.892] [Worker-Main-28/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/fireplace with rotation CLOCKWISE_180 at (-1025 | 56 | 704)
+[26Mar2025 21:49:59.892] [Worker-Main-28/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/fireplace with rotation CLOCKWISE_180 at (-1025 | 56 | 704)
+[26Mar2025 21:50:00.227] [Worker-Main-9/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/fireplace with rotation CLOCKWISE_180 at (-1025 | 56 | 704)
+[26Mar2025 21:50:00.228] [Worker-Main-9/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/fireplace with rotation CLOCKWISE_180 at (-1025 | 56 | 704)
+[26Mar2025 21:50:04.307] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6963ms or 139 ticks behind
+[26Mar2025 21:50:22.202] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2908ms or 58 ticks behind
+[26Mar2025 21:50:39.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha was slain by Haunted Knight
+[26Mar2025 21:50:40.088] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2894ms or 57 ticks behind
+[26Mar2025 21:50:41.992] [Server thread/DEBUG] [twilightforest/]: Player caradesalchicha (0f0dd075-1636-3714-8009-cf564762cfd5) respawned and received items held in storage
+[26Mar2025 21:50:57.458] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-53, y=65, z=92} BlockPos{x=-53, y=63, z=91}
+[26Mar2025 21:51:04.624] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9580ms or 191 ticks behind
+[26Mar2025 21:51:24.332] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4738ms or 94 ticks behind
+[26Mar2025 21:51:41.583] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2289ms or 45 ticks behind
+[26Mar2025 21:51:47.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Creative Mode]
+[26Mar2025 21:52:01.253] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4709ms or 94 ticks behind
+[26Mar2025 21:52:20.227] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3982ms or 79 ticks behind
+[26Mar2025 21:52:23.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha has made the advancement [Living Armor]
+[26Mar2025 21:52:40.142] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4948ms or 98 ticks behind
+[26Mar2025 21:52:52.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Survival Mode]
+[26Mar2025 21:52:59.558] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4464ms or 89 ticks behind
+[26Mar2025 21:53:14.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sergiosssssss> pingalo en dificil
+[26Mar2025 21:53:20.694] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6150ms or 123 ticks behind
+[26Mar2025 21:53:40.327] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4633ms or 92 ticks behind
+[26Mar2025 21:54:00.443] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5149ms or 102 ticks behind
+[26Mar2025 21:54:20.204] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4810ms or 96 ticks behind
+[26Mar2025 21:54:40.041] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4847ms or 96 ticks behind
+[26Mar2025 21:54:58.916] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3922ms or 78 ticks behind
+[26Mar2025 21:55:18.068] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4174ms or 83 ticks behind
+[26Mar2025 21:55:24.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha has made the advancement [Undead Guard]
+[26Mar2025 21:55:30.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sergiosssssss> juanpabloooo
+[26Mar2025 21:55:36.783] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3739ms or 74 ticks behind
+[26Mar2025 21:55:42.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <caradesalchicha> esta en dificil
+[26Mar2025 21:55:48.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sergiosssssss> no
+[26Mar2025 21:55:50.528] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Mar2025 21:55:50.563] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Mar2025 21:55:54.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <caradesalchicha> que si
+[26Mar2025 21:55:57.895] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6150ms or 123 ticks behind
+[26Mar2025 21:55:59.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <caradesalchicha> pq dice que no?
+[26Mar2025 21:56:16.427] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3533ms or 70 ticks behind
+[26Mar2025 21:56:17.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sergiosssssss> porque estoy peliando con zombies y no esta en dificil
+[26Mar2025 21:56:27.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <caradesalchicha> que si canson
+[26Mar2025 21:56:35.071] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3677ms or 73 ticks behind
+[26Mar2025 21:56:53.666] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3622ms or 72 ticks behind
+[26Mar2025 21:57:03.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <caradesalchicha> mire general de discord
+[26Mar2025 21:57:12.025] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3381ms or 67 ticks behind
+[26Mar2025 21:57:30.586] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3592ms or 71 ticks behind
+[26Mar2025 21:57:49.576] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4032ms or 80 ticks behind
+[26Mar2025 21:58:09.049] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4505ms or 90 ticks behind
+[26Mar2025 21:58:29.000] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4956ms or 99 ticks behind
+[26Mar2025 21:58:48.524] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4530ms or 90 ticks behind
+[26Mar2025 21:59:06.583] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3088ms or 61 ticks behind
+[26Mar2025 21:59:26.297] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4752ms or 95 ticks behind
+[26Mar2025 21:59:45.953] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4659ms or 93 ticks behind
+[26Mar2025 22:00:04.658] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3714ms or 74 ticks behind
+[26Mar2025 22:00:22.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Creative Mode]
+[26Mar2025 22:00:23.080] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3435ms or 68 ticks behind
+[26Mar2025 22:00:36.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Survival Mode]
+[26Mar2025 22:00:42.340] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4296ms or 85 ticks behind
