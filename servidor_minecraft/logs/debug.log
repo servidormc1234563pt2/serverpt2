@@ -3651,3 +3651,24 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [26Mar2025 02:35:02.018] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [26Mar2025 02:40:01.992] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [26Mar2025 02:40:02.000] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Mar2025 02:45:02.001] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Mar2025 02:45:02.010] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Mar2025 02:45:09.273] [Server thread/DEBUG] [twilightforest/]: Player sergiosssssss (19b9edc0-e7f0-375a-9e01-c010912e2f7b) respawned and received items held in storage
+[26Mar2025 02:45:32.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Survival Mode]
+[26Mar2025 02:45:42.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sergiosssssss> dema agua
+[26Mar2025 02:45:44.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <caradesalchicha> discord
+[26Mar2025 02:46:00.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sergiosssssss> deme aagua
+[26Mar2025 02:46:01.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <caradesalchicha> hable en discord
+[26Mar2025 02:46:16.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <caradesalchicha> entre a discord
+[26Mar2025 02:46:53.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sergiosssssss> ya fastidios
+[26Mar2025 02:47:00.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <caradesalchicha> entre a discordddddddd
+[26Mar2025 02:48:18.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss fell from a high place
+[26Mar2025 02:48:19.820] [Server thread/DEBUG] [twilightforest/]: Player sergiosssssss (19b9edc0-e7f0-375a-9e01-c010912e2f7b) respawned and received items held in storage
+[26Mar2025 02:48:37.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <caradesalchicha> discordddddddddddddddddddddddd
+[26Mar2025 02:50:02.055] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Mar2025 02:50:02.084] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Mar2025 02:52:23.329] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-104, y=64, z=14} BlockPos{x=-104, y=62, z=15}
+[26Mar2025 02:52:23.458] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-104, y=64, z=14} BlockPos{x=-104, y=62, z=15}
+[26Mar2025 02:52:23.891] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-102, y=64, z=17} BlockPos{x=-103, y=62, z=17}
+[26Mar2025 02:52:23.966] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-102, y=64, z=17} BlockPos{x=-103, y=62, z=17}
+[26Mar2025 02:52:24.926] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-99, y=65, z=16} BlockPos{x=-98, y=63, z=16}
