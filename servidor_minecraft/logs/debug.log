@@ -4400,3 +4400,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [26Mar2025 00:23:03.118] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [26Mar2025 00:28:03.113] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [26Mar2025 00:28:03.121] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Mar2025 00:31:50.832] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sergiosssssss lost connection: Disconnected
+[26Mar2025 00:31:50.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss left the game
+[26Mar2025 00:33:03.099] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Mar2025 00:33:03.107] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Mar2025 00:38:03.099] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Mar2025 00:38:03.111] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
