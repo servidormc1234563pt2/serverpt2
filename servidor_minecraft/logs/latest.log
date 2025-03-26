@@ -313,3 +313,26 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [26Mar2025 02:52:23.891] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-102, y=64, z=17} BlockPos{x=-103, y=62, z=17}
 [26Mar2025 02:52:23.966] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-102, y=64, z=17} BlockPos{x=-103, y=62, z=17}
 [26Mar2025 02:52:24.926] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-99, y=65, z=16} BlockPos{x=-98, y=63, z=16}
+[26Mar2025 02:55:39.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha was slain by sergiosssssss
+[26Mar2025 02:56:17.278] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sergiosssssss lost connection: Disconnected
+[26Mar2025 02:56:17.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss left the game
+[26Mar2025 02:59:04.268] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: caradesalchicha lost connection: Disconnected
+[26Mar2025 02:59:04.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha left the game
+[26Mar2025 02:59:20.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[26Mar2025 02:59:20.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[26Mar2025 02:59:20.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[26Mar2025 02:59:20.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[26Mar2025 02:59:20.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[26Mar2025 02:59:21.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/faded_conquest_2:the_abyss
+[26Mar2025 02:59:21.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[26Mar2025 02:59:21.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[26Mar2025 02:59:21.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[26Mar2025 02:59:21.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/faded_conquest_2:the_mirror_realm
+[26Mar2025 02:59:21.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[26Mar2025 02:59:21.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_abyss): All chunks are saved
+[26Mar2025 02:59:21.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[26Mar2025 02:59:21.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[26Mar2025 02:59:21.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[26Mar2025 02:59:21.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_mirror_realm): All chunks are saved
+[26Mar2025 02:59:21.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[26Mar2025 02:59:21.238] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
