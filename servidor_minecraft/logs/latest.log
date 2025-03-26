@@ -288,3 +288,13 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [26Mar2025 01:46:42.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss has made the advancement [Fishy Business]
 [26Mar2025 01:57:06.505] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
 [26Mar2025 02:02:54.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss has made the advancement [Enchanter]
+[26Mar2025 02:29:21.863] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: caradesalchicha[/127.54.255.13:33523] logged in with entity id 12415 at (-49.2930446933856, 62.0, 24.498526144091766)
+[26Mar2025 02:29:21.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha joined the game
+[26Mar2025 02:29:22.033] [Server thread/INFO] [Jade/]: Syncing config to caradesalchicha (0f0dd075-1636-3714-8009-cf564762cfd5)
+[26Mar2025 02:30:07.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Spectator Mode]
+[26Mar2025 02:30:10.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Teleported caradesalchicha to sergiosssssss]
+[26Mar2025 02:30:37.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Survival Mode]
+[26Mar2025 02:30:47.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: The difficulty has been set to Hard]
+[26Mar2025 02:31:24.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss starved to death
+[26Mar2025 02:32:21.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Teleported caradesalchicha to sergiosssssss]
+[26Mar2025 02:32:31.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Creative Mode]
