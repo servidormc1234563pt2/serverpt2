@@ -20,3 +20,24 @@
 [26Mar2025 00:18:31.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha has made the advancement [Crafting a New Look]
 [26Mar2025 00:31:50.832] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sergiosssssss lost connection: Disconnected
 [26Mar2025 00:31:50.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss left the game
+[26Mar2025 00:41:51.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha has made the advancement [Cover Me with Diamonds]
+[26Mar2025 00:43:38.622] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: caradesalchicha lost connection: Disconnected
+[26Mar2025 00:43:38.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha left the game
+[26Mar2025 00:44:07.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[26Mar2025 00:44:08.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[26Mar2025 00:44:08.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[26Mar2025 00:44:08.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[26Mar2025 00:44:08.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[26Mar2025 00:44:09.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[26Mar2025 00:44:09.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/faded_conquest_2:the_abyss
+[26Mar2025 00:44:09.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/faded_conquest_2:the_mirror_realm
+[26Mar2025 00:44:09.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[26Mar2025 00:44:09.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[26Mar2025 00:44:09.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[26Mar2025 00:44:09.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[26Mar2025 00:44:09.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_abyss): All chunks are saved
+[26Mar2025 00:44:09.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_mirror_realm): All chunks are saved
+[26Mar2025 00:44:09.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[26Mar2025 00:44:09.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[26Mar2025 00:44:09.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[26Mar2025 00:44:09.556] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
