@@ -401,3 +401,19 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [27Mar2025 21:30:52.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss joined the game
 [27Mar2025 21:30:52.251] [Server thread/INFO] [Jade/]: Syncing config to sergiosssssss (19b9edc0-e7f0-375a-9e01-c010912e2f7b)
 [27Mar2025 21:32:23.884] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/7336, l='ServerLevel[world]', x=269.70, y=65.00, z=-374.86] died, message: 'Unemployed was struck down by Legioner'
+[27Mar2025 21:33:12.138] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/7261, l='ServerLevel[world]', x=278.28, y=64.00, z=-393.50] died, message: 'Unemployed was shot by Pillager'
+[27Mar2025 21:37:47.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss was chopped to bits by Skirmisher
+[27Mar2025 21:38:59.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss was sniped by Archer
+[27Mar2025 21:40:03.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss was sniped by Archer
+[27Mar2025 21:42:19.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss was chopped to bits by Skirmisher
+[27Mar2025 21:43:31.587] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/12015, l='ServerLevel[world]', x=325.77, y=64.00, z=-380.06] died, message: 'Unemployed was struck down by Legioner'
+[27Mar2025 21:43:43.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss was chopped to bits by Skirmisher
+[27Mar2025 21:45:23.632] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/12634, l='ServerLevel[world]', x=275.94, y=64.00, z=-387.98] died, message: 'Unemployed was slain by Zombie'
+[27Mar2025 21:46:00.087] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/12633, l='ServerLevel[world]', x=273.46, y=65.00, z=-390.87] died, message: 'Unemployed was slain by Zombie Villager'
+[27Mar2025 21:46:01.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss was chopped to bits by Skirmisher
+[27Mar2025 21:47:24.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss was chopped to bits by Skirmisher
+[27Mar2025 21:57:05.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss was struck down by Legioner
+[27Mar2025 21:57:09.397] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=269, y=63, z=-400} BlockPos{x=269, y=63, z=-399}
+[27Mar2025 21:58:03.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss was chopped to bits by Skirmisher
+[27Mar2025 21:59:14.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss was chopped to bits by Skirmisher
+[27Mar2025 22:00:06.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss was chopped to bits by Skirmisher
