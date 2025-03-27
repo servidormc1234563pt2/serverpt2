@@ -3353,9 +3353,21 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/vanilla_to_tf_moss": {
+    "criteria": {
+      "has_item": "2025-03-27 23:04:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2025-03-27 22:56:38 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/vanilla_to_tf_lilypad": {
+    "criteria": {
+      "has_item": "2025-03-27 23:04:58 +0000"
     },
     "done": true
   },
@@ -3383,6 +3395,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/tf_to_vanilla_lilypad": {
+    "criteria": {
+      "has_item": "2025-03-27 23:04:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod": {
     "criteria": {
       "has_cod": "2025-03-27 22:54:51 +0000"
@@ -3392,6 +3410,12 @@
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2025-03-27 22:46:37 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/tf_moss_to_vanilla": {
+    "criteria": {
+      "has_item": "2025-03-27 23:04:58 +0000"
     },
     "done": true
   },
