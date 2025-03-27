@@ -422,3 +422,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [27Mar2025 22:16:12.023] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/21125, l='ServerLevel[world]', x=283.63, y=66.00, z=-391.30] died, message: 'Unemployed hit the ground too hard'
 [27Mar2025 22:17:26.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss was slain by Vex
 [27Mar2025 22:17:47.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss was struck down by Legioner
+[27Mar2025 22:23:18.775] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sergiosssssss lost connection: Disconnected
+[27Mar2025 22:23:18.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss left the game
