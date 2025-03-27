@@ -3726,5 +3726,11 @@
     },
     "done": false
   },
+  "takesapillage:bastille": {
+    "criteria": {
+      "in_bastille": "2025-03-27 21:17:34 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
