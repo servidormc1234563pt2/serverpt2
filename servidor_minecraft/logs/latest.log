@@ -417,3 +417,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [27Mar2025 21:58:03.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss was chopped to bits by Skirmisher
 [27Mar2025 21:59:14.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss was chopped to bits by Skirmisher
 [27Mar2025 22:00:06.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss was chopped to bits by Skirmisher
+[27Mar2025 22:10:13.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss was chopped to bits by Skirmisher
+[27Mar2025 22:13:25.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss was struck down by Legioner
+[27Mar2025 22:16:12.023] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/21125, l='ServerLevel[world]', x=283.63, y=66.00, z=-391.30] died, message: 'Unemployed hit the ground too hard'
+[27Mar2025 22:17:26.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss was slain by Vex
+[27Mar2025 22:17:47.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss was struck down by Legioner
