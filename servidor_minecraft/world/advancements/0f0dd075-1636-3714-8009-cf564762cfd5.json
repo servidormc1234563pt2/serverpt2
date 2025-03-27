@@ -288,6 +288,7 @@
       "golden_apple": "2025-03-25 23:30:01 +0000",
       "rotten_flesh": "2025-03-23 00:44:14 +0000",
       "golden_carrot": "2025-03-25 22:47:02 +0000",
+      "enchanted_golden_apple": "2025-03-27 22:56:15 +0000",
       "carrot": "2025-03-25 22:32:47 +0000"
     },
     "done": false
@@ -441,6 +442,7 @@
       "minecraft:witch": "2025-03-23 00:43:55 +0000",
       "minecraft:wither_skeleton": "2025-03-24 19:55:05 +0000",
       "minecraft:husk": "2025-03-24 18:35:06 +0000",
+      "minecraft:cave_spider": "2025-03-27 22:55:11 +0000",
       "minecraft:enderman": "2025-03-26 22:06:43 +0000",
       "minecraft:zombie": "2025-03-23 00:28:43 +0000"
     },
@@ -3339,6 +3341,36 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-03-27 22:54:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-03-27 22:56:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-03-27 22:56:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-03-27 22:54:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-03-27 22:56:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
       "has_glowstone_dust": "2025-03-27 22:46:37 +0000"
@@ -3351,9 +3383,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-03-27 22:54:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2025-03-27 22:46:37 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:hill3": {
+    "criteria": {
+      "redcap": "2025-03-27 22:54:08 +0000"
     },
     "done": true
   },

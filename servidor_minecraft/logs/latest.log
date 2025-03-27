@@ -432,3 +432,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [27Mar2025 22:45:10.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Creative Mode]
 [27Mar2025 22:45:58.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Spectator Mode]
 [27Mar2025 22:46:22.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Survival Mode]
+[27Mar2025 22:54:08.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha has made the advancement [I See Right Through You]
+[27Mar2025 22:59:41.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Creative Mode]
+[27Mar2025 22:59:56.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Survival Mode]
+[27Mar2025 23:00:49.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha joined the Wraith's haunt
+[27Mar2025 23:00:54.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Creative Mode]
