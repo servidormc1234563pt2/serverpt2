@@ -424,3 +424,6 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [27Mar2025 22:17:47.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss was struck down by Legioner
 [27Mar2025 22:23:18.775] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sergiosssssss lost connection: Disconnected
 [27Mar2025 22:23:18.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss left the game
+[27Mar2025 22:33:56.055] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: caradesalchicha[/127.54.255.13:50777] logged in with entity id 23696 at (-49.287419948549356, 62.0, 26.71412991846747)
+[27Mar2025 22:33:56.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha joined the game
+[27Mar2025 22:33:56.197] [Server thread/INFO] [Jade/]: Syncing config to caradesalchicha (0f0dd075-1636-3714-8009-cf564762cfd5)
