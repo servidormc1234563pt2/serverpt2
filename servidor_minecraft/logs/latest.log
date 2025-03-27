@@ -442,3 +442,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [27Mar2025 23:09:29.581] [Server thread/INFO] [twilightforest/]: GENERATING ORE TO BLOCK MAPPING
 [27Mar2025 23:11:15.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Creative Mode]
 [27Mar2025 23:11:25.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Survival Mode]
+[27Mar2025 23:19:51.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Creative Mode]
+[27Mar2025 23:20:01.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Survival Mode]
+[27Mar2025 23:22:28.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha was slain by Haunted Guard
+[27Mar2025 23:22:42.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Creative Mode]
+[27Mar2025 23:23:22.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Survival Mode]
