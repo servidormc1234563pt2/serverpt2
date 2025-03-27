@@ -391,3 +391,13 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [27Mar2025 21:16:24.463] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2059ms or 41 ticks behind
 [27Mar2025 21:17:34.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss has made the advancement [Eh-eh-oh, eh-oh]
 [27Mar2025 21:17:37.029] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[27Mar2025 21:22:28.016] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[27Mar2025 21:26:49.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss was chopped to bits by Skirmisher
+[27Mar2025 21:27:14.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss was struck down by Legioner
+[27Mar2025 21:27:34.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss was struck down by Legioner
+[27Mar2025 21:29:10.337] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sergiosssssss lost connection: Disconnected
+[27Mar2025 21:29:10.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss left the game
+[27Mar2025 21:30:52.234] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: sergiosssssss[/127.167.8.25:50661] logged in with entity id 7244 at (287.3109166025192, 62.0, -407.9328986575081)
+[27Mar2025 21:30:52.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss joined the game
+[27Mar2025 21:30:52.251] [Server thread/INFO] [Jade/]: Syncing config to sergiosssssss (19b9edc0-e7f0-375a-9e01-c010912e2f7b)
+[27Mar2025 21:32:23.884] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/7336, l='ServerLevel[world]', x=269.70, y=65.00, z=-374.86] died, message: 'Unemployed was struck down by Legioner'
