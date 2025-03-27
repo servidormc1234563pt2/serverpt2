@@ -447,3 +447,23 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [27Mar2025 23:22:28.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha was slain by Haunted Guard
 [27Mar2025 23:22:42.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Creative Mode]
 [27Mar2025 23:23:22.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Survival Mode]
+[27Mar2025 23:24:20.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha was slain by Posessed Paladin
+[27Mar2025 23:24:25.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Creative Mode]
+[27Mar2025 23:25:30.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Survival Mode]
+[27Mar2025 23:25:41.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha was slain by Posessed Paladin
+[27Mar2025 23:25:58.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha was slain by Posessed Paladin
+[27Mar2025 23:26:02.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Creative Mode]
+[27Mar2025 23:27:46.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Survival Mode]
+[27Mar2025 23:28:48.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha was blown up by Creeper
+[27Mar2025 23:28:56.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Creative Mode]
+[27Mar2025 23:30:07.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Survival Mode]
+[27Mar2025 23:30:29.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha has completed the challenge [The Fallen Knight]
+[27Mar2025 23:33:22.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Spectator Mode]
+[27Mar2025 23:34:00.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Survival Mode]
+[27Mar2025 23:35:45.531] [Worker-Main-138/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=148, y=58, z=18}
+[27Mar2025 23:42:57.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Creative Mode]
+[27Mar2025 23:43:03.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[27Mar2025 23:43:03.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[27Mar2025 23:43:03.564] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: caradesalchicha lost connection: Server closed
+[27Mar2025 23:43:03.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha left the game
+[27Mar2025 23:43:03.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
