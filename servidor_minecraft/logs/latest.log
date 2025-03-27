@@ -289,3 +289,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [27Mar2025 20:46:11.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [27Mar2025 20:46:11.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: difficulty6 hard<--[HERE]
 [27Mar2025 20:46:53.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: The difficulty has been set to Hard
+[27Mar2025 21:08:58.864] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: sergiosssssss[/127.167.8.25:43309] logged in with entity id 423 at (-49.43742491210806, 62.0625, 23.370056513543062)
+[27Mar2025 21:08:58.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss joined the game
+[27Mar2025 21:08:59.473] [Server thread/INFO] [Jade/]: Syncing config to sergiosssssss (19b9edc0-e7f0-375a-9e01-c010912e2f7b)
+[27Mar2025 21:09:01.821] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
