@@ -288,3 +288,11 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [28Mar2025 22:37:14.370] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4092ms or 81 ticks behind
 [28Mar2025 22:37:43.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: The difficulty has been set to Hard
 [28Mar2025 22:51:13.154] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@393f9aed[id=<null>,name=caradesalchicha,properties={},legacy=false] (/127.54.255.13:57479) lost connection: Disconnected
+[28Mar2025 23:01:53.215] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: caradesalchicha[/127.54.255.13:42335] logged in with entity id 2902 at (-48.93913718890337, 62.0, 29.134006302376797)
+[28Mar2025 23:01:53.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha joined the game
+[28Mar2025 23:01:53.465] [Server thread/INFO] [Jade/]: Syncing config to caradesalchicha (0f0dd075-1636-3714-8009-cf564762cfd5)
+[28Mar2025 23:02:30.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <caradesalchicha> anda en la mina?
+[28Mar2025 23:03:30.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Spectator Mode]
+[28Mar2025 23:03:33.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Teleported caradesalchicha to sergiosssssss]
+[28Mar2025 23:03:57.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Survival Mode]
+[28Mar2025 23:05:05.709] [Server thread/INFO] [twilightforest/]: GENERATING ORE TO BLOCK MAPPING
