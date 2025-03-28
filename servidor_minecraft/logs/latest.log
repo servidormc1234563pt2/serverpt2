@@ -296,3 +296,15 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [28Mar2025 23:03:33.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Teleported caradesalchicha to sergiosssssss]
 [28Mar2025 23:03:57.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Survival Mode]
 [28Mar2025 23:05:05.709] [Server thread/INFO] [twilightforest/]: GENERATING ORE TO BLOCK MAPPING
+[28Mar2025 23:08:53.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sergiosssssss> ya le dijeeee
+[28Mar2025 23:09:19.055] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sergiosssssss lost connection: Disconnected
+[28Mar2025 23:09:19.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss left the game
+[28Mar2025 23:10:07.220] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2342ms or 46 ticks behind
+[28Mar2025 23:10:07.266] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: caradesalchicha moved too quickly! -0.0023500617484728537,-0.32167613525047045,-10.323467396979652
+[28Mar2025 23:11:28.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Creative Mode]
+[28Mar2025 23:12:58.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Survival Mode]
+[28Mar2025 23:13:53.499] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: caradesalchicha lost connection: Disconnected
+[28Mar2025 23:13:53.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha left the game
+[28Mar2025 23:14:36.565] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: caradesalchicha[/127.54.255.13:40309] logged in with entity id 5308 at (-50.680171007172994, 64.0, 32.44394437264293)
+[28Mar2025 23:14:36.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: caradesalchicha joined the game
+[28Mar2025 23:14:36.628] [Server thread/INFO] [Jade/]: Syncing config to caradesalchicha (0f0dd075-1636-3714-8009-cf564762cfd5)
