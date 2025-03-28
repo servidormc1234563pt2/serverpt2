@@ -314,3 +314,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [28Mar2025 21:58:49.308] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sergiosssssss moved too quickly! -369.3611229132927,-57.92159999847412,373.6868160142908
 [28Mar2025 21:58:53.728] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5618ms or 112 ticks behind
 [28Mar2025 22:01:42.119] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sergiosssssss moved too quickly! 372.34117537995803,58.07840000152588,-373.48512260935996
+[28Mar2025 22:15:04.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Creative Mode]
+[28Mar2025 22:16:44.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [caradesalchicha: Set own game mode to Survival Mode]
