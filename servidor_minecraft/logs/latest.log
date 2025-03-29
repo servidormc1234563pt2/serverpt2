@@ -284,3 +284,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [28Mar2025 23:33:11.655] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
 [28Mar2025 23:33:32.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: The difficulty has been set to Hard
 [28Mar2025 23:38:31.003] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2278ms or 45 ticks behind
+[28Mar2025 23:57:41.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sergiosssssss was slain by Zombie
