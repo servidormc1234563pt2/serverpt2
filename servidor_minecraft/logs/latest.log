@@ -281,3 +281,6 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [29Mar2025 16:43:03.576] [Server thread/INFO] [Jade/]: Syncing config to sergiosssssss (19b9edc0-e7f0-375a-9e01-c010912e2f7b)
 [29Mar2025 16:43:08.865] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
 [29Mar2025 16:43:30.174] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6310ms or 126 ticks behind
+[29Mar2025 17:04:32.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Incorrect argument for command
+[29Mar2025 17:04:32.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...ifficulty hrd<--[HERE]
+[29Mar2025 17:04:50.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: The difficulty has been set to Hard
